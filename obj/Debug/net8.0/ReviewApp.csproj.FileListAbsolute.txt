@@ -175,3 +175,5 @@ C:\Users\abete\source\repos\ReviewApp\ReviewApp\bin\Debug\net8.0\Newtonsoft.Json
 C:\Users\abete\source\repos\ReviewApp\ReviewApp\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\abete\source\repos\ReviewApp\ReviewApp\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\abete\source\repos\ReviewApp\ReviewApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\abete\source\repos\ReviewApp\ReviewApp\obj\Debug\net8.0\ReviewApp.sourcelink.json
+C:\Users\abete\source\repos\ReviewApp\ReviewApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
